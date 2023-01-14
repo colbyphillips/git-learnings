@@ -1,3 +1,3 @@
 # Git learnings
 
-HEllo World!
+Hello World!
