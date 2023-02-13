@@ -1,5 +1,3 @@
-# Git learnings
-
 **Most Important Basic Git Commands:**
 
 # Git cheat sheet
